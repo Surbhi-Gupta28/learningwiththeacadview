@@ -1,0 +1,11 @@
+git init command is used to create .git file.
+commit command lets us to save the changes made in our files
+git add is used to add the file which needs to be considered
+git status command is used when we want to know the previous changes made in the file
+master is the main branch and branch is the further different path to our main branch.
+origin is the conventional name of variable
+git push -u origin master is used to push file on github
+git remote add origin "address"  is used to git thr repository file on the github
+git commit -m " " is used to commit the commands
+git is basically the VCS( version control system)
+github is basically the cloud to the git
